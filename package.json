@@ -1,0 +1,23 @@
+{
+  "name": "is-computer-on-fire",
+  "version": "1.0.0",
+  "description": "Adds various helpful functions to assert the state of the machine before performing any heavy tasks.",
+  "main": "is-computer-on-fire.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmyRS/is-computer-on-fire.git"
+  },
+  "keywords": [
+    "fire",
+    "computer",
+    "machine",
+    "burning",
+    "load"
+  ],
+  "author": "Tim \"timmyRS\" Speckhals",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timmyRS/is-computer-on-fire/issues"
+  },
+  "homepage": "https://github.com/timmyRS/is-computer-on-fire#readme"
+}
